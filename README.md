@@ -4,7 +4,7 @@
 
 - [Giới thiệu](#giới-thiệu)
 - [Giảng viên](#giảng-viên)
-- [Quá Trình](#Quá-trình)
+- [Quá Trình](#Quá-Trình)
 
 ## Giới thiệu
 
@@ -14,4 +14,9 @@
 - Quê Quán:Hà Tĩnh
 - Sở Thích:Du Lịch,Chơi Game,Đá Bóng,...
 
-## Quá Trình
+### Giảng viên
+
+- PGS.TS. Lê Đình Duy - duyld@uit.edu.vn
+- ThS. Phạm Nguyễn Trường An - truonganpn@uit.edu.vn
+
+### Quá Trình
