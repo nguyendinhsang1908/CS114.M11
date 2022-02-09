@@ -65,3 +65,5 @@ Liệt kê chi tiết số lượng dữ liệu thu thập được cho bộ d�
 -   Total training shoe images: 355
 
 -   Total training truck images: 149
+
+link data:https://drive.google.com/drive/folders/1Cilvm9hsQ9UiTQEJoiv8Y82HWCroWNMj?fbclid=IwAR0l7A5Tn0f5_O-kWjRAmXtUAuV-3K3nwOrMP12ut5X7Frytx2sVX-ypNzg
