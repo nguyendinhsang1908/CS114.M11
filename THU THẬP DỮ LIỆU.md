@@ -10,7 +10,7 @@ Dữ liệu thu thập từ camera điện thoại, ảnh chụp màn hình đi�
 ## CẤU TRÚC THƯ MỤC CHỨA DỮ LIỆU
 
 ![Diagram Description automatically
-generated](media/1df3fa5af62226569d85767ef60190e3.png)
+generated](https://scontent.fhan4-2.fna.fbcdn.net/v/t1.15752-9/272988471_324655772936076_8058360732241153827_n.png?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=51QgWeY10VoAX84zdc6&_nc_ht=scontent.fhan4-2.fna&oh=03_AVJXscCVNQsEXDyAXZDesEzcvWxB-BB-_zBWJL6sAeYiTA&oe=6228D672)
 
 ## THÔNG SỐ BỘ DỮ LIỆU
 
